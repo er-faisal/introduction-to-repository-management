@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @er-faisal
+/src/backend/database.py      @er-faisal
+/src/backend/routers/auth.py  @er-faisal
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @er-faisal
